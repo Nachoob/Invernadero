@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309215071071",
+    "project_id": "invernadero-37b33",
+    "storage_bucket": "invernadero-37b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309215071071:android:14485dfd0a5f5a96de04ea",
+        "android_client_info": {
+          "package_name": "com.example.invernadero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQjZuZRwqGbu6NQkSweDWhN2kXWkz7MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
